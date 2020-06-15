@@ -10,6 +10,7 @@ Alunos:
 
 
 Funcionalidades não implementadas:
+  -Perdemos grande parte do projecto (na oral iremos explicar ao professor o que se passou)
   -A entrega dos docker containers encontra-se potencialmente mal feita.
   -Alguns alunos entregam o seu container (devido à perda do nosso site).
   -Professor, o nosso grupo perdeu o site 3 vezes, no entanto temos um pc de back-up com o site a funcionar e antes de perdermos o site,      
